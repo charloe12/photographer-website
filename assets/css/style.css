@@ -1096,6 +1096,18 @@ body.active {
   #MEDIA QUERIES
 \*-----------------------------------*/
 
+
+
+
+@media (min-width: 375px) {
+  .container {
+    max-width: 300px;
+    width: 100%;
+    margin-inline: auto;
+  }
+
+}
+
 /**
  * responsive for large than 575px screen
  */
@@ -1114,7 +1126,9 @@ body.active {
 
     --section-padding: 80px;
 
+
   }
+
 
 
 
@@ -1123,7 +1137,7 @@ body.active {
    */
 
   .container {
-    max-width: 540px;
+    max-width: 500px;
     width: 100%;
     margin-inline: auto;
   }
@@ -1141,6 +1155,7 @@ body.active {
   .navbar {
     max-width: 500px;
     right: -500px;
+
   }
 
   .navbar.active {
