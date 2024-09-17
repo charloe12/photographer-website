@@ -1,17 +1,17 @@
 Richard Ryan
 
-This is a photographer portfolio html template, made by codewithsadee.
+This is a photographer portfolio html template, made by khalid amenzouy.
 
 
 
 #---------- HEADER ----------#
 
-alt = Richard home
+alt = Othman Photographer
 
 aria-label = open menu
 alt = menu icon
 
-alt = Richard home
+alt = home
 
 aria-label = close menu
 
@@ -27,24 +27,23 @@ Login
 
 My Address
 
-3287 Indiana Avenue, Waialua, Hawaii
+0000 agadir, Morocco
 
 Urgent issue? call us at
-808-561-3846
+0650603990
 
 
 
 #---------- HERO ----------#
 
-Richard Ryan
+Othman Photographer
 
 Photographer
 Shutterbug
 Cameraman
 Pacific Portraits
 
-15+ Years Of Experience
-
+2024 copyright 
 
 
 #---------- GALLERY ----------#
@@ -98,18 +97,17 @@ Health & Wellnes.
 
 #---------- CATEGORY ----------#
 
-Hi. I’m
-Richard Ryan
+Hi. Everyone
 
 A passionate
-photograher
+photograhers team
 who are working in this field for 
-last 10 years. 
-I’m ready to give you my best.
+last 5 years. 
+wweready to give you my best.
 
 alt = signature
 
-alt = Riachard Ryan
+alt = Othman Photographer
 
 
 
@@ -171,7 +169,7 @@ alt = photography
 
 #---------- FOOTER ----------#
 
-alt = Richard home
+alt = home
 
 Fa.
 Insta.
